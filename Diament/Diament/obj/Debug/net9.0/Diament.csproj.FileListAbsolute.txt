@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\csharp\Diament\Diament\bin\Debug\net9.0\Diament.exe
+C:\Users\admin\Desktop\csharp\Diament\Diament\bin\Debug\net9.0\Diament.deps.json
+C:\Users\admin\Desktop\csharp\Diament\Diament\bin\Debug\net9.0\Diament.runtimeconfig.json
+C:\Users\admin\Desktop\csharp\Diament\Diament\bin\Debug\net9.0\Diament.dll
+C:\Users\admin\Desktop\csharp\Diament\Diament\bin\Debug\net9.0\Diament.pdb
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\Diament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\Diament.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\Diament.AssemblyInfo.cs
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\Diament.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\Diament.dll
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\refint\Diament.dll
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\Diament.pdb
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\Diament.genruntimeconfig.cache
+C:\Users\admin\Desktop\csharp\Diament\Diament\obj\Debug\net9.0\ref\Diament.dll
